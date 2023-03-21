@@ -8,7 +8,7 @@ const timeEl = document.querySelector("#time");
 const tempEl = document.querySelector("#temp");
 const windSpeedEl = document.querySelector("#wind-speed");
 
-let cityDefault = "delhi";
+let cityDefault = "Delhi, India";
 
 // const API_KEY = 18a81ae24c484a0897a124014232003;
 
